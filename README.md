@@ -268,7 +268,7 @@ Passion  : Offensive Security & Bug Bounty
 ### 🐍 My Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/gagan-gk/gagan-gk/output/github-snake-dark.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/gagan-gk/gagan/output/github-snake-dark.svg" alt="snake animation" />
 </p>
 
 </div>
