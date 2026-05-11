@@ -213,7 +213,7 @@ Passion  : Offensive Security & Bug Bounty
 
 ## 🎯 Interests & Passion
 
-<div align="center">
+<div>
 
 <pre>
  ██████╗ ███████╗███████╗███████╗███╗   ██╗███████╗███████╗
@@ -232,7 +232,7 @@ Passion  : Offensive Security & Bug Bounty
 
 <br/>
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/gagankumar.png" alt="TryHackMe Badge" onerror="this.style.display='none'"/>
+<img src="https://tryhackme-badges.s3.amazonaws.com/gagangk.png" alt="TryHackMe Badge" onerror="this.style.display='none'"/>
 
 </div>
 
