@@ -4,9 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:7928ca&height=220&section=header&text=Gagan%20Kumar&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Cloud%20Security%20Engineer%20%7C%20Offensive%20Security%20Enthusiast&descSize=20&descAlignY=58&descColor=00d4ff&animation=fadeIn" />
 
 <!-- Typing SVG -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=60&lines=☁️+Cloud+Security+Engineer;🔐+IAM+%7C+HIPAA+%7C+Network+Security;🛡️+Fortigate+%7C+Palo+Alto+%7C+TrendMicro;🐍+Python+%7C+SQL+%7C+Java;🎯+CTF+Player+%7C+Bug+Bounty+Hunter;❄️+Snowflake+SnowPro+Core+Certified" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&repeat=true&width=700&height=60&lines=Cloud+Security+Engineer+%E2%98%81%EF%B8%8F;IAM+%7C+HIPAA+%7C+Network+Security+%F0%9F%94%90;Fortigate+%7C+Palo+Alto+%7C+TrendMicro+%F0%9F%9B%A1%EF%B8%8F;Python+%7C+SQL+%7C+Java+%F0%9F%90%8D;CTF+Player+%7C+Bug+Bounty+Hunter+%F0%9F%8E%AF;Snowflake+SnowPro+Core+Certified+%E2%9D%84%EF%B8%8F" alt="Typing SVG" />
 
 <br/>
 
