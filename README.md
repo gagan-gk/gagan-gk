@@ -46,9 +46,17 @@ Passion  : Offensive Security & Bug Bounty
 </td>
 <td valign="top" width="45%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=gagan-gk&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7928ca&text_color=ffffff&border_radius=10" width="100%"/>
+<img 
+  src="https://github-readme-stats.vercel.app/api?username=gagan-gk&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7928ca&text_color=ffffff&border_radius=10" 
+  width="100%" 
+/>
 
-<img src="https://streak-stats.demolab.com/?user=gagan-gk&theme=radical&hide_border=true&background=0d1117&stroke=00d4ff&ring=7928ca&fire=ff6b6b&currStreakLabel=00d4ff&border_radius=10" width="100%"/>
+<br><br>
+
+<img 
+  src="https://streak-stats.demolab.com?user=gagan-gk&theme=radical&hide_border=true&background=0d1117&stroke=00d4ff&ring=7928ca&fire=ff6b6b&currStreakLabel=00d4ff&border_radius=10" 
+  width="100%" 
+/>
 
 </td>
 </tr>
