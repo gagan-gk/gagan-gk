@@ -46,7 +46,7 @@ Passion  : Offensive Security & Bug Bounty
   width="100%" 
 />
 
-<br><br>
+<br>
 
 <img 
   src="https://streak-stats.demolab.com?user=gagan-gk&theme=radical&hide_border=true&background=0d1117&stroke=00d4ff&ring=7928ca&fire=ff6b6b&currStreakLabel=00d4ff&border_radius=10" 
