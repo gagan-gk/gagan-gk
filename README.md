@@ -43,7 +43,7 @@ Passion  : Offensive Security & Bug Bounty
 ⚡ **Fun fact:** I break things to understand how to protect them  
 🏆 **Certified:** Snowflake SnowPro Core | AWS | GCP (13 Badges)
 
-<td valign="top" width="45%">
+<td valign="top" width="55%">
 
 <img 
   src="https://github-readme-stats-six-omega-52.vercel.app/api?username=gagan-gk&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7928ca&text_color=ffffff&border_radius=10" 
