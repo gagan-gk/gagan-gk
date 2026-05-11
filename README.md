@@ -216,14 +216,31 @@ Passion  : Offensive Security & Bug Bounty
 <div>
 
 <pre>
-   /$$$$$$   /$$$$$$   /$$$$$$                              /$$                    
- /$$__  $$ /$$__  $$ /$$__  $$                            |__/                    
-| $$  \ $$| $$  \__/| $$  \__//$$$$$$  /$$$$$$$   /$$$$$$$ /$$ /$$    /$$ /$$$$$$ 
-| $$  | $$| $$$$    | $$$$   /$$__  $$| $$__  $$ /$$_____/| $$|  $$  /$$//$$__  $$
-| $$  | $$| $$_/    | $$_/  | $$$$$$$$| $$  \ $$|  $$$$$$ | $$ \  $$/$$/| $$$$$$$$
-| $$  | $$| $$      | $$    | $$_____/| $$  | $$ \____  $$| $$  \  $$$/ | $$_____/
-|  $$$$$$/| $$      | $$    |  $$$$$$$| $$  | $$ /$$$$$$$/| $$   \  $/  |  $$$$$$$
- \______/ |__/      |__/     \_______/|__/  |__/|_______/ |__/    \_/    \_______/
+                                                                                                                                                                
+                                                                                                                                                                
+     OOOOOOOOO        ffffffffffffffff    ffffffffffffffff                                                       iiii                                           
+   OO:::::::::OO     f::::::::::::::::f  f::::::::::::::::f                                                     i::::i                                          
+ OO:::::::::::::OO  f::::::::::::::::::ff::::::::::::::::::f                                                     iiii                                           
+O:::::::OOO:::::::O f::::::fffffff:::::ff::::::fffffff:::::f                                                                                                    
+O::::::O   O::::::O f:::::f       fffffff:::::f       ffffffeeeeeeeeeeee    nnnn  nnnnnnnn        ssssssssss   iiiiiiivvvvvvv           vvvvvvv eeeeeeeeeeee    
+O:::::O     O:::::O f:::::f             f:::::f           ee::::::::::::ee  n:::nn::::::::nn    ss::::::::::s  i:::::i v:::::v         v:::::vee::::::::::::ee  
+O:::::O     O:::::Of:::::::ffffff      f:::::::ffffff    e::::::eeeee:::::een::::::::::::::nn ss:::::::::::::s  i::::i  v:::::v       v:::::ve::::::eeeee:::::ee
+O:::::O     O:::::Of::::::::::::f      f::::::::::::f   e::::::e     e:::::enn:::::::::::::::ns::::::ssss:::::s i::::i   v:::::v     v:::::ve::::::e     e:::::e
+O:::::O     O:::::Of::::::::::::f      f::::::::::::f   e:::::::eeeee::::::e  n:::::nnnn:::::n s:::::s  ssssss  i::::i    v:::::v   v:::::v e:::::::eeeee::::::e
+O:::::O     O:::::Of:::::::ffffff      f:::::::ffffff   e:::::::::::::::::e   n::::n    n::::n   s::::::s       i::::i     v:::::v v:::::v  e:::::::::::::::::e 
+O:::::O     O:::::O f:::::f             f:::::f         e::::::eeeeeeeeeee    n::::n    n::::n      s::::::s    i::::i      v:::::v:::::v   e::::::eeeeeeeeeee  
+O::::::O   O::::::O f:::::f             f:::::f         e:::::::e             n::::n    n::::nssssss   s:::::s  i::::i       v:::::::::v    e:::::::e           
+O:::::::OOO:::::::Of:::::::f           f:::::::f        e::::::::e            n::::n    n::::ns:::::ssss::::::si::::::i       v:::::::v     e::::::::e          
+ OO:::::::::::::OO f:::::::f           f:::::::f         e::::::::eeeeeeee    n::::n    n::::ns::::::::::::::s i::::::i        v:::::v       e::::::::eeeeeeee  
+   OO:::::::::OO   f:::::::f           f:::::::f          ee:::::::::::::e    n::::n    n::::n s:::::::::::ss  i::::::i         v:::v         ee:::::::::::::e  
+     OOOOOOOOO     fffffffff           fffffffff            eeeeeeeeeeeeee    nnnnnn    nnnnnn  sssssssssss    iiiiiiii          vvv            eeeeeeeeeeeeee  
+                                                                                                                                                                
+                                                                                                                                                                
+                                                                                                                                                                
+                                                                                                                                                                
+                                                                                                                                                                
+                                                                                                                                                                
+                                                                                                                                                                
 </pre>
 
 </div>
